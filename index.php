@@ -27,7 +27,7 @@
 		{
 			$error = "Your Login Name or Password is invalid";
 		}	
-			if ($users == "em yeu anh" && $pass == "14141520")
+			if ($users == "em yeu anh" && $pass == "141520")
 			{
 				#echo "lgoin for admin";
 				header("location: mylove.php");
